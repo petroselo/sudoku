@@ -1,0 +1,9 @@
+The plan for the conintuation of this project.
+
+Finish the analytical solving function
+
+add the method of brute force in sudoku_solver which when it gets stuck analytically will try a number and see if the sudoku works out
+
+translate the code into javascript
+
+use droidscript to make an android app that can scan in pictures of sudokus using the camera and then solve them and display a picture of the solved sudoku on the screen.
